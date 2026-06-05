@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BookVault — Book Management System
 
 A full-stack book store and admin dashboard built with Next.js. Public users can browse, search, and add books to a cart without logging in. Admins manage inventory through a protected dashboard.
@@ -151,3 +152,6 @@ Server actions return a typed `ActionResult` with consistent codes and HTTP-styl
 - Cart data is stored in the browser (`localStorage`) — no checkout or payment flow.
 - The dev server uses `--webpack` for stability with this Next.js version.
 - Change `NEXTAUTH_SECRET` and admin credentials before deploying to production.
+=======
+# BookVault
+>>>>>>> 39f6f202bef9dd170de54f5999dfd5a4a88ec4f5
