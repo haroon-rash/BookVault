@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BookVault — Book Management System
 
 A full-stack book store and admin dashboard built with Next.js. Public users can browse, search, and add books to a cart without logging in. Admins manage inventory through a protected dashboard.
